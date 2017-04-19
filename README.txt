@@ -1,6 +1,6 @@
 # perfectiontv
 PerfectionTV
-4 
+5 
 ||| 
 [B][COLOR red]NEW UPDATE v4.2[/COLOR][/B]
 
@@ -11,3 +11,4 @@ Changes:
 - App Installer added to 'Settings' sub-menu
 - Update Wizard bug fix
 - General skin changes
+- Update Available Notification added
