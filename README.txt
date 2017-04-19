@@ -1,8 +1,10 @@
 # perfectiontv
 PerfectionTV
-6 
+7 
 ||| 
-[B][COLOR red]NEW UPDATE v4.2[/COLOR][/B]
+[B][COLOR red]NEW UPDATE v4.2 AVAILABLE[/COLOR][/B]
+
+[B][COLOR white]Go to Settings>Update>4.2[/COLOR][/B]
 
 Changes:
 - Surfing added to 'Sports' sub-menu
