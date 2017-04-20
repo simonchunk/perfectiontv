@@ -1,16 +1,14 @@
 # perfectiontv
 PerfectionTV
-7 
+8
 ||| 
-[B][COLOR red]NEW UPDATE v4.2 AVAILABLE[/COLOR][/B]
+[B][COLOR red]NEW UPDATE v4.3 AVAILABLE[/COLOR][/B]
 
-[B][COLOR white]Go to Settings>Update>4.2[/COLOR][/B]
+[B][COLOR white]Go to Settings>Update>4.3[/COLOR][/B]
 
 Changes:
-- Surfing added to 'Sports' sub-menu
-- Speed Test added to 'Settings' sub-menu
-- Support added to 'Settings' sub-menu
-- App Installer added to 'Settings' sub-menu
-- Update Wizard bug fix
-- General skin changes
-- Update Available Notification added
+- Updater is now FULLY AUTOMATED!!!
+- Any updates will be automatically installed to the box
+- This is NOT an optional update
+
+[B][COLOR yellow]Failure to update will explude you from further updates[/COLOR][/B]
