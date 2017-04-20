@@ -1,6 +1,6 @@
 # perfectiontv
 PerfectionTV
-8
+9
 ||| 
 [B][COLOR red]NEW UPDATE v4.3 AVAILABLE[/COLOR][/B]
 
@@ -11,4 +11,4 @@ Changes:
 - Any updates will be automatically installed to the box
 - This is NOT an optional update
 
-[B][COLOR yellow]Failure to update will explude you from further updates[/COLOR][/B]
+[B][COLOR yellow]Failure to update will exclude you from further updates[/COLOR][/B]
